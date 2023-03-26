@@ -1,3 +1,10 @@
+--------------------------------------------
+---       © Copyright FuriousFoxGG       ---
+---    https://github.com/FuriousF0xGG   ---
+---     https://discord.gg/cPSAuJppyr    ---
+--- Date Created: 03/18/2023 Time: 21:00 ---
+--------------------------------------------
+
 Citizen.Trace("\n===========\nLoading " ..GetCurrentResourceName().. "\nScript Enabled: " ..tostring(Config.ScriptEnabled).. "\n===========")
 
 if Config.ScriptEnabled then
