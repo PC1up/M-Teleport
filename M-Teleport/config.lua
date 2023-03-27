@@ -10,6 +10,7 @@ Config.Teleport = {}
 
 Config.ScriptEnabled = false
 Config.Debug = true
+Config.tNotify = true -- Do you use t-Notify? If this is disabled, chat messages will be used.
 
 Config.Teleport.TPToCmd = "tpto" --Command to teleport to a user
 Config.Teleport.TPBringCmd = "tpbring" --Command to teleport a user to you
